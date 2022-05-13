@@ -1,0 +1,19 @@
+@import "./variables.scss";
+
+
+#world {
+    color: $color;
+    cursor: pointer;
+}
+
+#friend {
+    color:rgb(213, 96, 248);
+}
+
+
+main {
+    img {
+        height: $size;
+        width: $size;
+    }
+}
