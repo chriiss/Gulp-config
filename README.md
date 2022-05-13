@@ -7,6 +7,6 @@ When you go to retrieve the config:
 
 This configuration allows :
 
-- Copile SCSS/CSS
+- Compile SCSS/CSS
 - Automatic Reload HTML/CSS and JS Files
 - Optimize images 
